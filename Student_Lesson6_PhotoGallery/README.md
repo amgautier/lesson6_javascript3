@@ -4,19 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Alexis Gautier
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we learned about DHTML, how to remove and add document nodes, and how to do some new fun things using Javascript such a adding a photo gallery to a webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/amgautier/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to create a photo gallery so that users could click through photos and 
+2. feel more engaged with out webpage.
+2. We learned about the browser object model, or client-side object
+model, where there is a hierarchy of object, and each provides programmatic access
+3. We learned about the document oject model. A few mainpoints of this model are that it represents the Web page displayed in a browser;
+it contains all Web page elements; and JavaScript represents each element by its own object
